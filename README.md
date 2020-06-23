@@ -1,14 +1,5 @@
-# MYSTERIUM
-**TKL keyboard that can be entirely assembled using only through hole components, including usb type c**
+# experimental keyboard design 
 
-**[BOM, Build Guide, and Flashing Information](./doc)**
+goal of this keyboard is to make a 1800 layout version of cftkb's mysterium 
 
-**Kits available at [cftkb.com](https://www.cftkb.com)**
-
-**[Optional High Profile Lasercut Acrylic Case](./case)**
-
-![mysterium](./doc/images/mysterium.jpg)
-![](./doc/images/mysterium-kicad.png)
-![](./doc/images/mysterium-top.png)
-![](./doc/images/mysterium-bottom.png)
-![](./doc/images/mysterium-bottom-plate.png)
+readme will be fully flushed later, with proper BOM, pcb photos, and others
