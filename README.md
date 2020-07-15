@@ -1,7 +1,18 @@
-# experimental keyboard design 
+# Factorium Keyboard
 
-goal of this keyboard is to make a 1800 layout version of cftkb's mysterium 
+Factorium is a keyboard in CP layout inspired by CFTKB's Discipline and Mysterium Keyboard
 
-readme will be fully flushed later, with proper BOM, pcb photos, and other
+## Differences between Mysterium and Factorium
+- Added numpad 
+- Move arrow keys down and right
+- Addition of F13
+- Removal of two navigation buttons 
 
-384.2 x 172.8mm pcb dimensions
+## ToDo
+- Standardize placement of arrows and num cluster to proper unit ratios (0.25 down and right for arrow keys, 1.25U for numpad)
+- Adjust mounting points to be equidistant from the edges 
+- Create smaller logo for silk screen printing 
+- Design Acrylic feet 
+
+## Images
+coming once prototypes are ordered
