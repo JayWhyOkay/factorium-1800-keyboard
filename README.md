@@ -2,6 +2,8 @@
 
 Factorium is a keyboard in CP layout inspired by CFTKB's Discipline and Mysterium Keyboard
 
+**Project is in hiatus indefinitely until further notice **
+
 ## Differences between Mysterium and Factorium
 - Added numpad 
 - Move arrow keys down and right
